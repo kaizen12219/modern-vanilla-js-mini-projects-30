@@ -1,10 +1,99 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+![JavaScript30](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# JavaScript30 — 30 Vanilla JavaScript Projects
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+Starter files and completed solutions for the **JavaScript30 30 Day Challenge** by Wes Bos.
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+JavaScript30 is a free course focused on building **30 practical vanilla JavaScript projects in 30 days**. Each project helps improve core frontend skills including DOM manipulation, events, CSS variables, array methods, local storage, canvas, speech recognition, video controls, and browser APIs.
+
+---
+
+## About This Repository
+
+This repository contains the starter files and completed solutions for all JavaScript30 projects.
+
+It is useful for developers who want to:
+
+- Practice vanilla JavaScript without frameworks
+- Build frontend mini projects for learning or portfolio work
+- Improve DOM manipulation and browser API skills
+- Study completed JavaScript30 solutions
+- Follow along with the JavaScript 30 Day Challenge
+- Strengthen HTML, CSS, and JavaScript fundamentals
+
+---
+
+## What You Will Learn
+
+Through these 30 JavaScript projects, you will practice:
+
+- JavaScript DOM manipulation
+- Event listeners and keyboard events
+- HTML5 audio and video
+- CSS variables controlled with JavaScript
+- Flexbox interactions
+- Canvas drawing
+- Array methods
+- Ajax and Fetch API
+- Local storage
+- Custom video controls
+- Speech synthesis and speech recognition
+- Mouse movement effects
+- Timers and countdowns
+- Drag and drop interactions
+- Browser-native APIs
+
+---
+
+## JavaScript30 Projects
+
+The challenge includes 30 hands-on projects:
+
+1. JavaScript Drum Kit
+2. CSS + JS Clock
+3. CSS Variables
+4. Array Cardio Day 1
+5. Flex Panel Gallery
+6. Ajax Type Ahead
+7. Array Cardio Day 2
+8. Fun with HTML5 Canvas
+9. Dev Tools Domination
+10. Hold Shift and Check Checkboxes
+11. Custom HTML5 Video Player
+12. Key Sequence Detection
+13. Slide In on Scroll
+14. JavaScript References vs Copying
+15. LocalStorage and Event Delegation
+16. Mouse Move Shadow
+17. Sort Without Articles
+18. Adding Up Times with Reduce
+19. Webcam Fun
+20. Speech Detection
+21. Geolocation
+22. Follow Along Links
+23. Speech Synthesis
+24. Sticky Nav
+25. Event Capture, Propagation, Bubbling, and Once
+26. Stripe Follow Along Dropdown
+27. Click and Drag
+28. Video Speed Controller
+29. Countdown Timer
+30. Whack A Mole
+
+---
+
+## Who This Is For
+
+This repository is ideal for:
+
+- Beginner JavaScript developers
+- Frontend engineering students
+- Web developers practicing DOM projects
+- Developers preparing portfolio projects
+- Bootcamp students learning JavaScript
+- Engineers refreshing vanilla JavaScript fundamentals
+
+---
 
 ## Community #JavaScript30 Content
 
@@ -74,8 +163,10 @@ Here are some links of people who have done the tutorials, but in a different la
 
 ## A note on Pull Requests
 
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
+These files are designed to closely follow the course content as 1:1 implementations.
 
-The starter files + solutions will be updated if/when the videos are updated.
+Alternative or improved solutions are welcome for learning purposes, but this repository will keep the starter files and completed solutions consistent with the original course.
+
+The starter files and solutions will be updated as the course materials are updated.
 
 Thanks!
